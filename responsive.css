@@ -1,0 +1,95 @@
+@media (max-width: 1200px) {
+  .hdr-menu {
+    margin: 0;
+  }
+  .h-profile {
+    margin-right: 10px;
+  }
+  .h-more-icon ul li a {
+    width: 33px;
+    height: 33px;
+    line-height: 33px;
+  }
+  .msngr {
+    font-size: 16px;
+  }
+  .dot-3 {
+    font-size: 21px;
+  }
+  .ntfctn {
+    font-size: 20px;
+  }
+  .drp {
+    font-size: 28px;
+  }
+  .actv-nav::before {
+    bottom: -1px;
+  }
+  .hdr-icon ul li a i {
+    font-size: 28px;
+  }
+  .hdr-logo img {
+    width: 70px;
+  }
+  .fls-option {
+    width: 25%;
+  }
+  .frs-option {
+    width: 25%;
+  }
+  .fb-middle-section {
+    margin: 20px 40px;
+  }
+  .fb-video-photo ul li a {
+    font-size: 14px;
+    padding: 6px 6px;
+  }
+  .fb-video-photo ul li a i {
+    font-size: 22px;
+    margin-right: 5px;
+  }
+  .fb-post-img img {
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+  }
+  .fb-post-img {
+    align-items: center;
+  }
+  .fb-story-img {
+    height: 160px;
+  }
+  .fb-story-img p {
+    font-size: 12px;
+  }
+  .add-story {
+    bottom: 33px;
+    left: 23px;
+    width: 35px;
+    height: 35px;
+  }
+  .add-story i {
+    color: #1876f2;
+    font-size: 35px;
+  }
+  .main-story span {
+    left: 4px;
+    bottom: 12px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .story-r-btn {
+    right: -19px;
+    top: 75px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+  }
+  .story-r-btn i {
+    font-size: 20px;
+  }
+  .room-section ul li a i {
+    font-size: 22px;
+    margin-right: 5px;
+  }
+}
